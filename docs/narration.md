@@ -1,8 +1,8 @@
 # Trame narrative — v0.2
 
-**Statut : scénario possible, à réécrire. Mise à jour : 19 septembre 2026. Contient les révélations envisagées.**
+**Statut : scénario possible, à réécrire. Mise à jour : 20 septembre 2026. Contient les révélations envisagées.**
 
-Les six questions ci-dessous restent sans réponse définitive. Seule une préférence hésitante pour un personnage plutôt ouvert à la projection se dessine. Le parcours suivant suppose une collection : il devra évoluer si une autre [mécanique](alternatives-gameplay.md) est retenue.
+Les six questions ci-dessous restent à préciser, mais Q02 comporte désormais une décision : le personnage possède une histoire propre, non générique. Le [moodboard de l’auteur](moodboard.md) demande une reconstruction progressive, plusieurs couches de lecture et aucune réponse démonstrative. Le parcours suivant est une ancienne hypothèse fondée sur une collection : il devra évoluer avec le personnage et la manière de jouer. Ses explications décrivent des intentions d’écriture ; elles ne sont pas du texte destiné au jeu.
 
 ## Parcours envisagé
 
@@ -30,9 +30,9 @@ Les ailes « Ailleurs », « Ensemble », « Créer », « Réussir », « Reste
 
 ### 1. Qui visite ? — Q02
 
-**Préférence provisoire : plutôt ouvert à la projection, mais pas entièrement indéfini.** Le degré d'incarnation reste incertain. Un personnage écrit facilite les traces intimes ; un personnage très ouvert facilite la projection mais peut manquer d'attaches.
+**Décision adoptée le 20 septembre 2026 : un personnage singulier, avec une histoire propre.** La préférence provisoire du 19 septembre pour la projection est remplacée. La biographie reste à écrire ; sa découverte progressive intéresse fortement l’auteur.
 
-Piste à explorer : quelques habitudes, sensations ou liens concrets sans biographie exhaustive. Cela ne décide ni du nom, ni de l'âge, ni de la voix ou de l'apparence. Tester si le joueur se sent impliqué plutôt que simple lecteur d'une vie étrangère, sans présumer qu'un personnage muet résout la question.
+Nom, âge, voix, apparence, événements et liens concrets restent ouverts. Le personnage peut avoir ses propres connaissances tandis que le joueur découvre son histoire ; aucune amnésie n’est imposée. L’identité de genre et le doute sont des pistes possibles pour une lecture intime, non des décisions. La troisième couche de sens reste indéterminée et ne doit pas devenir une révélation explicative obligatoire.
 
 ### 2. Quand voit-on les coulisses ? — Q04
 

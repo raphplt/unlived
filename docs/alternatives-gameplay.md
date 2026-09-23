@@ -2,6 +2,8 @@
 
 **Statut : étude, 19 septembre 2026. Aucun choix arrêté.** Conserver un objet et perdre la scène reste une piste intéressante ; sa place centrale doit être comparée à d'autres formes de jeu.
 
+**Après le premier MVP :** ces quatre pistes traitent surtout de l’investissement et de la fin d’une visite. Elles sont complétées par une [recherche de mécaniques jouables](mecaniques-jouables.md) : basculer entre des versions d’un lieu en retenant un élément, coopérer avec un écho, ou modifier les connexions entre espaces. Ce sont des propositions non implémentées ; aucune n’est encore retenue par l’auteur.
+
 Le point commun recherché est d'explorer des vies possibles, de s'y investir et de rencontrer les limites du « tout vivre ». La disparition physique n'est qu'une traduction possible de cette intention.
 
 ## Quatre pistes

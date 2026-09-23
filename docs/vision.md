@@ -1,10 +1,10 @@
 # Vision — v0.2
 
-**Statut : proposition en exploration. Mise à jour : 19 septembre 2026.**
+**Statut : direction d’enquête choisie pour reprendre le développement du MVP le 23 septembre 2026.** Les intentions du [moodboard](moodboard.md) restent la référence ; les détails du récit restent à éprouver.
 
 ## Promesse
 
-Un jeu narratif d'exploration dans un musée des vies non vécues. Le joueur entre dans des fragments de vies possibles, en découvre le quotidien et éprouve ce que signifie s'engager dans une possibilité plutôt qu'une autre.
+Une aventure d’enquête à la première personne située dans un musée des vies non vécues, suivant la [fiche 02, version 3](fiches-projets/02-les-pieces-manquantes.md) choisie par l’auteur pour le développement du MVP. Le joueur entre dans des fragments de vies possibles, en découvre les différences et reconstitue progressivement l’histoire d’un personnage singulier. Solitude et sentiment d’être hors du temps orientent la recherche.
 
 Le musée pourrait proposer de trouver « la bonne vie ». L'expérience amènerait à questionner cette promesse : une vie imaginée peut-elle être comparée à une vie réellement vécue ?
 
@@ -16,13 +16,15 @@ Le sujet central envisagé est le deuil des personnes que nous ne deviendrons pa
 
 ## Expérience recherchée
 
-Le joueur explore, manipule des traces du quotidien et formule une interprétation. Curiosité, plaisir et tendresse doivent donner envie d'habiter les lieux avant de demander de les quitter ou de renoncer à une possibilité.
+Le jeu doit être agréable à jouer sans comprendre son histoire, particulièrement au début. Le joueur découvre progressivement des morceaux d’existence et des correspondances entre les vies. Curiosité, plaisir et tendresse doivent donner envie d’habiter les lieux avant de demander de les quitter ou de renoncer à une possibilité. L’auteur souhaite plusieurs couches de lecture : plaisir de jeu, rapport aux vies non vécues, puis une interrogation plus intime encore indéterminée. Aucun discours ne doit en livrer la réponse.
 
-**La mécanique centrale reste à choisir.** Conserver un objet et voir le reste disparaître est une hypothèse, à comparer au temps consacré à une activité, à l'échange de souvenirs et au départ sans effacement. Voir les [alternatives de gameplay](alternatives-gameplay.md).
+**Boucle retenue pour le MVP :** explorer, produire des observations, confronter des hypothèses et ouvrir de nouvelles pistes. La collection réunit des objets réservés sur place et les photographies prises par le joueur ; sortir d’une vie ou choisir un objet ne ferme pas l’enquête. Les [alternatives de gameplay](alternatives-gameplay.md) restent l’historique de recherche, pas le programme courant.
+
+**Orientation narrative validée pour l’instant, le 20 septembre :** les mêmes éléments portent plusieurs lectures. Le joueur découvre d’abord un lieu intéressant à parcourir, reconnaît ensuite une correspondance avec une autre vie, puis comprend autrement le personnage grâce à cette correspondance. Le détail peut rester inchangé ; sa portée évolue sans explication. Le sujet intime de la troisième couche reste ouvert.
 
 ## Personnage
 
-La préférence actuelle va vers un personnage **plutôt ouvert à la projection, avec quelques attaches concrètes**, mais elle reste hésitante. Cela ne signifie ni un personnage vide, ni une biographie entièrement définie. Le degré de précision et la reconnaissance de l'Exposition 0 restent à explorer dans la [narration](narration.md).
+**Décision de l’auteur, le 20 septembre : le personnage a une histoire propre ; il ne doit être ni générique ni impersonnel.** Cette décision remplace la préférence précédente pour la projection. Sa biographie, son apparence et la manière de découvrir son histoire restent à concevoir dans la [narration](narration.md). Le rapport à l’identité de genre est une piste évoquée par l’auteur, non un thème adopté.
 
 ## Piliers proposés
 
@@ -38,10 +40,12 @@ La préférence actuelle va vers un personnage **plutôt ouvert à la projection
 
 Un hall central, des expositions compactes et des coulisses composent le lieu envisagé. Architecture impossible, décors de théâtre et contrastes sonores sont des pistes esthétiques. L'effacement du décor dépend de la mécanique retenue.
 
-**3 à 5 heures et environ 5 à 7 expositions** restent une ancienne ambition indicative, à réévaluer après les essais. Combat, multijoueur, monde ouvert et simulation complexe de personnages restent hors du périmètre envisagé.
+**3 à 5 heures et environ 5 à 7 expositions** restent une ancienne ambition indicative, à réévaluer après les essais. Les exclusions initiales du prototype (combat, multijoueur, monde ouvert, simulation complexe de personnages) ne déterminent pas à elles seules le genre final. Aucune de ces extensions n’est demandée. La solitude est une orientation importante ; un RPG centré sur un groupe attire moins l’auteur.
 
-Caméra, rendu, plateforme, moteur, public précis et temps disponible ne sont pas arrêtés. Godot et Unity sont déjà disponibles selon l'inventaire de départ ; d'autres outils peuvent être ajoutés selon les besoins. L'[étude de fabrication](fabrication.md) formule une première proposition technique.
+Le MVP poursuit le projet Godot existant en 3D à la première personne. La plateforme de diffusion, le public précis, le rendu final et le temps de production restent à préciser. L’[étude de fabrication](fabrication.md) conserve les premières comparaisons techniques.
 
-## Premier enjeu
+## Enjeu actuel
 
-Comparer des gestes de jeu dans une même scène avant d'écrire toutes les expositions. Le [prototype](prototype.md) doit aider à trouver ce qui suscite un attachement et un renoncement intéressants, sans figer le personnage ou la fin.
+Fabriquer la scène représentative définie au §15 de [Les pièces manquantes](fiches-projets/02-les-pieces-manquantes.md) : cour de la ville et trois routes d’enquête, logement de Lou, accès aux coulisses, fragment des serres et deux alcôves de collection. Le [périmètre du MVP d’enquête](mvp-enquete.md) distingue cette réalisation du jeu complet.
+
+**Choix explicite du 23 septembre :** l’auteur demande de reprendre le développement du MVP selon cette fiche. Cette demande remplace la phase de comparaison documentaire des trois genres. Les fiches alternatives, l’essai A/D et le laboratoire de mouvement restent conservés comme historique. La biographie précise, la troisième lecture et la fin décrites dans la fiche constituent des hypothèses de conception ; le choix de développer cette direction ne valide ni leur effet, ni le plaisir de jeu.

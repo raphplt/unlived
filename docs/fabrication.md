@@ -2,6 +2,8 @@
 
 **État : recherche du 19 septembre 2026 ; proposition, pas choix de production.** Caméra, rendu et temps disponible restent ouverts. L'objectif est d'établir une boucle courte : modifier une scène, la lancer, observer le résultat, corriger.
 
+**Suite de l’étude :** un [MVP Godot 4.6](../game/README.md) met désormais en œuvre l’essai en première personne et les variantes A/D. Scènes, interactions et captures sont vérifiées dans le moteur. L’inventaire ci-dessous décrit le repérage préalable ; aucun export autonome ni essai comparatif avec des joueurs n’est encore livré.
+
 ## Modèles envisagés : ce qui est documenté
 
 Le nom « ChatGPT 6 » est ici rapproché de **GPT‑6 Astra**, référence trouvée dans la documentation officielle. Le modèle exact et son accès dans l'application ou l'abonnement utilisé devront être confirmés ; une fiche API ne décrit pas toutes les possibilités d'une application.

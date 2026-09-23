@@ -1,6 +1,8 @@
 # Premiers essais — comparer avant de choisir
 
-**Statut : protocole proposé, aucun essai réalisé. Mise à jour : 19 septembre 2026.**
+**Statut : protocole historique du premier essai A/D ; aucune séance comparative consignée.** Depuis le 23 septembre 2026, le développement suit le [MVP d’enquête](mvp-enquete.md) et la fiche 02 choisie par l’auteur. Les règles ci-dessous ne définissent plus le travail courant.
+
+Les variantes A et D sont maintenant implémentées dans le [premier MVP Godot](../game/README.md). Les parcours techniques sont vérifiés automatiquement ; les observations affectives décrites ci-dessous restent à recueillir.
 
 ## Question
 
