@@ -1,0 +1,5 @@
+game/.godot/
+experiments/**/.godot/
+build/
+artifacts/
+__pycache__/
